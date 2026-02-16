@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-cs5903",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "serve": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "resume"
+  ],
+  "author": "Tausif Ibrahim Mohammad",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
